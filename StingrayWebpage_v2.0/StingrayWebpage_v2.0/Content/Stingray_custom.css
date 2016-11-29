@@ -1,0 +1,34 @@
+﻿.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
+span.highlight {
+    background-color: #b6e9dc;
+}
+
+.addmargin {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+hr {
+border: 0;
+color: #5bc0de;
+background-color: #000000;
+height: 1px;
+width: 100%;
+text-align: left;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.carousel-caption h1{
+    text-shadow: 1px 1px #b6e9dc;
+}
+
+.red{
+    color: red;
+}

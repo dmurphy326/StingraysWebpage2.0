@@ -1,0 +1,12 @@
+C:\Users\DMurphy326\Desktop\Personal\HTML\CS322\Murphy_5-1\StingrayWebpage_v2.0\StingrayWebpage_v2.0\bin\StingrayWebpage_v2.0.dll.config
+C:\Users\DMurphy326\Desktop\Personal\HTML\CS322\Murphy_5-1\StingrayWebpage_v2.0\StingrayWebpage_v2.0\bin\StingrayWebpage_v2.0.dll
+C:\Users\DMurphy326\Desktop\Personal\HTML\CS322\Murphy_5-1\StingrayWebpage_v2.0\StingrayWebpage_v2.0\bin\StingrayWebpage_v2.0.pdb
+C:\Users\DMurphy326\Desktop\Personal\HTML\CS322\Murphy_5-1\StingrayWebpage_v2.0\StingrayWebpage_v2.0\obj\Debug\StingrayWebpage_v2.0.csprojResolveAssemblyReference.cache
+C:\Users\DMurphy326\Desktop\Personal\HTML\CS322\Murphy_5-1\StingrayWebpage_v2.0\StingrayWebpage_v2.0\obj\Debug\StingrayWebpage_v2.0.dll
+C:\Users\DMurphy326\Desktop\Personal\HTML\CS322\Murphy_5-1\StingrayWebpage_v2.0\StingrayWebpage_v2.0\obj\Debug\StingrayWebpage_v2.0.pdb
+C:\Users\DMurphy326\Desktop\Personal\H2O Academy\StingrayWebpage_v2.0\StingrayWebpage_v2.0\bin\StingrayWebpage_v2.0.dll.config
+C:\Users\DMurphy326\Desktop\Personal\H2O Academy\StingrayWebpage_v2.0\StingrayWebpage_v2.0\bin\StingrayWebpage_v2.0.dll
+C:\Users\DMurphy326\Desktop\Personal\H2O Academy\StingrayWebpage_v2.0\StingrayWebpage_v2.0\bin\StingrayWebpage_v2.0.pdb
+C:\Users\DMurphy326\Desktop\Personal\H2O Academy\StingrayWebpage_v2.0\StingrayWebpage_v2.0\obj\Debug\StingrayWebpage_v2.0.csprojResolveAssemblyReference.cache
+C:\Users\DMurphy326\Desktop\Personal\H2O Academy\StingrayWebpage_v2.0\StingrayWebpage_v2.0\obj\Debug\StingrayWebpage_v2.0.dll
+C:\Users\DMurphy326\Desktop\Personal\H2O Academy\StingrayWebpage_v2.0\StingrayWebpage_v2.0\obj\Debug\StingrayWebpage_v2.0.pdb

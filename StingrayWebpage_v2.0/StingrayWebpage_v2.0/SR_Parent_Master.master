@@ -1,0 +1,61 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Stringray_Master.Master" AutoEventWireup="true" CodeBehind="SR_Parent_Master.master.cs" Inherits="StingrayWebpage_v2._0.SR_Parent_Master" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+
+
+<asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <!-- Parent Image carousel -->
+    <div id="carousel-stingray-edition" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+            <li data-target="#carousel-stingray-edition" data-slide-to="0" class="active"></li>
+            <li data-target="#carousel-stingray-edition" data-slide-to="1"></li>
+            <li data-target="#carousel-stingray-edition" data-slide-to="2"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner" role="listbox">
+            <div class="item active">
+                <img src="Images/Parents/SRParent1.jpg" alt="Parent Pic 1" />
+                <div class="carousel-caption">
+                    <h1>Family</h1>
+                    <p><span class="highlight">The future rewards those who press on. I don't have time to feel sorry for myself. </span><br />
+                        <span class="highlight">I don't have time to complain. I'm going to press on.</span><br />
+                        <span class="highlight">~President Barack Obama</span>
+                    </p> 
+                </div>
+            </div>
+            <div class="item">
+                <img src="Images/Parents/SRParent2.jpg" alt="Parent Pic 2" />
+                <div class="carousel-caption">
+                    <h1>Leadership</h1>
+                    <p><span class="highlight">Organize, agitate, educate, must be our war cry.</span>
+                        <br /><span class="highlight">~Susan B. Anthony</span>
+                    </p>  
+                </div>
+            </div>
+            <div class="item">
+                <img src="Images/Parents/SRParent3.jpg" alt="Parent Pic 3" />
+                <div class="carousel-caption">
+                    <h1>Love</h1>
+                    <p><span class="highlight">Love begins at home, and it is not how much we do... but how much love we put in that action.</span><br />
+                        <span class="highlight">~Mother Teresa</span>
+                    </p>  
+                </div>
+            </div>
+        </div>
+
+        <!-- Controls -->
+        <a class="left carousel-control" href="#carousel-stingray-edition" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#carousel-stingray-edition" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+
+    <asp:ContentPlaceHolder ID="Content2" runat="server">
+    </asp:ContentPlaceHolder>
+</asp:Content>
